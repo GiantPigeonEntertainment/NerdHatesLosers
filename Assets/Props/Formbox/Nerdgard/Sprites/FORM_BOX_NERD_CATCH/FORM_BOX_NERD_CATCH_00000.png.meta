@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Props/Formbox/Nerdgard/Sprites/FORM_BOX_NERD_CATCH/FORM_BOX_NERD_CATCH_00000.png.meta
 guid: 080a52bcae538004dbdedab0ae0625c0
 timeCreated: 1429389859
+=======
+guid: b3da6d0743c0e4444865f51d88bbd162
+timeCreated: 1429390159
+>>>>>>> origin/master:Assets/Props/Formbox/Nerdgard/Sprites/FORM_BOX_NERD_CATCH/FORM_BOX_NERD_CATCH_00000.png.meta
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}

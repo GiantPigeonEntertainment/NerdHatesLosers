@@ -14,7 +14,7 @@ public class MyCharacterController : MonoBehaviour {
 		ChangeForm (formState);
 	}
 	
-	void FixedUpdate () {
+	void Update () {
 
 		// HORIZONTAL
 		float x = Input.GetAxis("Horizontal");
@@ -40,8 +40,7 @@ public class MyCharacterController : MonoBehaviour {
 			characterController.Jump();
 		
 		// Fire
-		float fire = Input.GetAxis("Fire");
-		if(fire > 0)
+		if(Input.GetButtonDown("Fire"))
 			characterController.Fire();
 	}
 
