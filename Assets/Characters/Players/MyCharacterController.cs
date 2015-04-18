@@ -35,8 +35,7 @@ public class MyCharacterController : MonoBehaviour {
 			characterController.Front();
 
 		// JUMP
-		float jump = Input.GetAxis("Jump");
-		if(jump > 0)
+		if(Input.GetButtonDown("Jump"))
 			characterController.Jump();
 		
 		// Fire
