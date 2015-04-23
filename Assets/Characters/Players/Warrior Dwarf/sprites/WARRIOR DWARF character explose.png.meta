@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9a78398957140304e99ee830c5920d80
+timeCreated: 1429720210
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WD_sword
+    21300002: WD_shield
+    21300004: WD_head
+    21300006: WD_body
+    21300008: WD_shoulder
+    21300010: WD_upleg
+    21300012: WD_downleg
+    21300014: WD_arm
+    21300016: WARRIOR DWARF reference
+    21300018: WD_sword
+    21300020: WD_shield
+    21300022: WD_head
+    21300024: WD_body
+    21300026: WD_shoulder
+    21300028: WD_arm
+    21300030: WD_upleg 1
+    21300032: WD_downleg 1
+    21300034: WD_hand
+    21300036: WARRIOR DWARF character explose_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WD_sword
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 501
+        width: 39
+        height: 184
+      alignment: 9
+      pivot: {x: .499999911, y: .110629208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_shield
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 535
+        width: 48
+        height: 129
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_head
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 574
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: .137632802, y: .354112118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_body
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 536
+        width: 120
+        height: 116
+      alignment: 9
+      pivot: {x: .507198095, y: .142570764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_shoulder
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 549
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_arm
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 479
+        width: 72
+        height: 44
+      alignment: 9
+      pivot: {x: .320044637, y: .480368167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_upleg 1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 396
+        width: 35
+        height: 49
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_downleg 1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 407
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: .648091853, y: .822832286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WD_hand
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 408
+        width: 30
+        height: 34
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WARRIOR DWARF character explose_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 241
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
