@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: f6cc81b5811464cfeb00807861c1b6c6
+timeCreated: 1430146980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roccia tileset_0
+    21300002: roccia tileset_1
+    21300004: roccia tileset_2
+    21300006: roccia tileset_3
+    21300008: roccia tileset_4
+    21300010: roccia tileset_5
+    21300012: roccia tileset_6
+    21300014: roccia tileset_7
+    21300016: roccia tileset_8
+    21300018: roccia tileset_9
+    21300020: roccia tileset_10
+    21300022: roccia tileset_11
+    21300024: roccia tileset_12
+    21300026: roccia tileset_13
+    21300028: roccia tileset_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roccia tileset_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1412
+        width: 183
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1421
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_2
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1462
+        width: 270
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_3
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1499
+        width: 244
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_4
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1508
+        width: 209
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_5
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1508
+        width: 65
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1093
+        width: 256
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1156
+        width: 253
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1209
+        width: 217
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1298
+        width: 1070
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 279
+        width: 315
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 275
+        width: 315
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 275
+        width: 316
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_13
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 238
+        width: 127
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roccia tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 880
+        width: 139
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

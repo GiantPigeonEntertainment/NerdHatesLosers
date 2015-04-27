@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 29c469bb640294adcbd3fe5c0286d0e4
+timeCreated: 1430150806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sfondo e palazzi tileset_0
+    21300002: sfondo e palazzi tileset_1
+    21300004: sfondo e palazzi tileset_2
+    21300006: sfondo e palazzi tileset_3
+    21300008: sfondo e palazzi tileset_4
+    21300010: sfondo e palazzi tileset_5
+    21300012: sfondo e palazzi tileset_6
+    21300014: sfondo e palazzi tileset_7
+    21300016: sfondo e palazzi tileset_8
+    21300018: sfondo e palazzi tileset_9
+    21300020: sfondo e palazzi tileset_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sfondo e palazzi tileset_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2822
+        width: 1065
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_1
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2553
+        width: 986
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_2
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 2996
+        width: 111
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2619
+        width: 259
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_4
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2690
+        width: 294
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1681
+        width: 986
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1673
+        width: 1011
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_7
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 2322
+        width: 284
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_8
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1694
+        width: 486
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_9
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1686
+        width: 277
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sfondo e palazzi tileset_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1529
+        width: 2786
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 12b74506190884b71a915fdb393d602a
+timeCreated: 1430146412
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zolla 1
+    21300002: zolla 2
+    21300004: zolla 3
+    21300006: zolla 2 sx
+    21300008: zolla 4
+    21300010: zolla 2 dx
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zolla 1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1237
+        width: 561
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zolla 2
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1205
+        width: 950
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zolla 3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 871
+        width: 475
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zolla 2 sx
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 665
+        width: 1008
+        height: 445
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zolla 4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 343
+        width: 560
+        height: 408
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zolla 2 dx
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 139
+        width: 1008
+        height: 445
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

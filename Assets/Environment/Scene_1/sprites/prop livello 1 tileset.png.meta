@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: f1ec909b5e2974e2a9ec6fbed92f28ed
+timeCreated: 1430150694
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: prop livello 1 tileset_0
+    21300002: prop livello 1 tileset_1
+    21300004: prop livello 1 tileset_2
+    21300006: prop livello 1 tileset_3
+    21300008: prop livello 1 tileset_4
+    21300010: prop livello 1 tileset_5
+    21300012: prop livello 1 tileset_6
+    21300014: prop livello 1 tileset_7
+    21300016: prop livello 1 tileset_8
+    21300018: prop livello 1 tileset_9
+    21300020: prop livello 1 tileset_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: prop livello 1 tileset_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1377
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1377
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1476
+        width: 133
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1291
+        width: 191
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_4
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1300
+        width: 219
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_5
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 709
+        width: 120
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 683
+        width: 152
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1198
+        width: 133
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1205
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1316
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prop livello 1 tileset_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1054
+        width: 299
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

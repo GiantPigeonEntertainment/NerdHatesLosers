@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 guid: cc52feadd89f14442974f19e2ef085de
 timeCreated: 1429389875
@@ -6,6 +7,10 @@ timeCreated: 1429389875
 guid: 4259d715463cf9544930af9c1db1915c
 timeCreated: 1429390157
 >>>>>>> origin/master
+=======
+guid: 3d77c36e27ce44574b93948c3b893657
+timeCreated: 1429647441
+>>>>>>> Stashed changes
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
