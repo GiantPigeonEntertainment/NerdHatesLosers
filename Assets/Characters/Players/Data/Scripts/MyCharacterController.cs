@@ -5,8 +5,9 @@ public class MyCharacterController : MonoBehaviour {
 	
 	public FormEnum formState;
 
-	public GameObject nerdgard;
-	public GameObject spacefighter;
+	public GameObject ng;
+	public GameObject sf;
+	public GameObject wd;
 
 	IFormController characterController;
 	
@@ -50,23 +51,26 @@ public class MyCharacterController : MonoBehaviour {
 
 	void EnableForm(FormEnum form) {
 		//disable all
-		nerdgard.SetActive(false);
-		spacefighter.SetActive(false);
+		ng.SetActive(false);
+		sf.SetActive(false);
+		wd.SetActive(false);
 
 		//enable selected form
 		switch(form) {
-		case FormEnum.Nerdgard: nerdgard.SetActive(true); break;
-		case FormEnum.Spacefighter: spacefighter.SetActive(true); break;
-		default: nerdgard.SetActive(true); break;
+		case FormEnum.Nerdgard: ng.SetActive(true); break;
+		case FormEnum.Spacefighter: sf.SetActive(true); break;
+		case FormEnum.WarriorDwarf: wd.SetActive(true); break;
+		default: ng.SetActive(true); break;
 		}
 	}
 
 	void GetForm(FormEnum form){
 		IFormController formController;
 		switch(form) {
-			case FormEnum.Nerdgard: formController = nerdgard.GetComponent<NerdgardController> (); break;
-			case FormEnum.Spacefighter: formController = spacefighter.GetComponent<SpacefighterController> (); break;
-			default: formController = nerdgard.GetComponent<NerdgardController> (); break;
+			case FormEnum.Nerdgard: formController = ng.GetComponent<NGController> (); break;
+			case FormEnum.Spacefighter: formController = sf.GetComponent<SFController> (); break;
+			case FormEnum.WarriorDwarf: formController = wd.GetComponent<WDController> (); break;
+			default: formController = ng.GetComponent<NGController> (); break;
 		}
 		characterController = formController;
 	}

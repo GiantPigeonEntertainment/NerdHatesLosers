@@ -1,1 +1,1 @@
-﻿public enum FormEnum{Nerdgard, Spacefighter}
+﻿public enum FormEnum{Nerdgard, Spacefighter, WarriorDwarf}

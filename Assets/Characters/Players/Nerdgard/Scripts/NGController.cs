@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class NerdgardController : MonoBehaviour, IFormController {
+public class NGController : MonoBehaviour, IFormController {
 	
 	Animator anim;
 	Rigidbody2D rb;

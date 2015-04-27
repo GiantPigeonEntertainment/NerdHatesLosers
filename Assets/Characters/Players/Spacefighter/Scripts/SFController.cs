@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SpacefighterController : MonoBehaviour, IFormController {
+public class SFController : MonoBehaviour, IFormController {
 	
 	Animator anim;
 	Animator legs;
